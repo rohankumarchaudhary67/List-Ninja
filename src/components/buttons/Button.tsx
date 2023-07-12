@@ -8,12 +8,15 @@ const buttonVariants = cva(
     {
         variants: {
             variant: {
-                default: 'bg-grey text-black',
-                dark: 'bg-black text-white'
+                default: "inline-flex items-center justify-center px-4 py-2 text-base font-medium leading-6 text-white whitespace-no-wrap bg-blue-600 border border-blue-700 rounded-md shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500",
+                greenBorderd: "relative rounded px-5 py-2.5 overflow-hidden group bg-green-500 relative hover:bg-gradient-to-r hover:from-green-500 hover:to-green-400 text-white hover:ring-2 hover:ring-offset-2 hover:ring-green-400 transition-all ease-out duration-300",
+                dark: 'relative inline-flex items-center justify-center px-10 py-4 overflow-hidden font-mono font-medium tracking-tighter text-white bg-gray-800 rounded-lg group'
             },
             size: {
                 default: 'py-2 px-4',
-                lg: 'py-3 px-6'
+                small: 'py-3 px-6',
+                medium: 'py-4 px-8 text-xl',
+                large: 'py-4 px-8 text-2xl',
             }
         },
         defaultVariants: {
