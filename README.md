@@ -52,10 +52,4 @@ Access the application in your web browser at
 If you encounter any issues or have any questions or suggestions, please open an issue in this repository. We are happy to assist you!
 
 
-## Acknowledgements
-
-We would like to express our gratitude to the open-source community for their contributions and the developers of the libraries and frameworks used in this application.
-
-List Ninja is developed and maintained by Rohan Kumar Chaudhary. We appreciate your interest and hope you find List Ninja helpful in organizing your tasks and boosting your productivity.
-
 
