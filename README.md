@@ -35,21 +35,3 @@ Access the application in your web browser at
   http://localhost:3000
 ```
     
-## Usage
-
-- Create a new account or log in with your existing credentials.
-- Create a new to-do list by clicking on the "New List" button.
-- Add tasks to your list by clicking on the "+" button.
-- Categorize tasks using tags or labels.
-- Assign priority levels and due dates to tasks.
-- Share your lists with others by inviting them via email.
-- Track your progress and productivity using the provided metrics and reports.
-- Integrate List Ninja with other tools and platforms as needed.
-
-
-## Support
-
-If you encounter any issues or have any questions or suggestions, please open an issue in this repository. We are happy to assist you!
-
-
-
