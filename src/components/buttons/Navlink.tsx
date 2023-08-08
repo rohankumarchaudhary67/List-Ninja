@@ -23,7 +23,6 @@ const navlinkVariants = cva(
     }
 )
 
-// Interface here
 interface NavlinkProps extends AnchorHTMLAttributes<HTMLAnchorElement>, VariantProps<typeof navlinkVariants> {
     href: string;
 }
