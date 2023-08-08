@@ -52,6 +52,4 @@ Access the application in your web browser at
 If you encounter any issues or have any questions or suggestions, please open an issue in this repository. We are happy to assist you!
 
 
-// Update variants to increase the efficiney for the developers and help the community to maintain their code base and all that stuff which is related to site and server deployment 
-
 
