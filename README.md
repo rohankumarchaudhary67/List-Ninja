@@ -12,7 +12,6 @@ List Ninja is a powerful and intuitive to-do list application designed to help i
 - Share lists with others for efficient collaboration and task delegation.
 - Track progress and measure productivity with various metrics and reports.
 - Integrate with other productivity tools and platforms for seamless workflow.
-- Access task lists across multiple devices and platforms.
 
 
 ## Installation
