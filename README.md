@@ -1,7 +1,7 @@
 
 # List Ninja - To-Do List Application
 
-List Ninja is a powerful and intuitive to-do list application designed to help individuals and teams stay organized, focused, and productive. This repository contains the source code and documentation for List Ninja.
+List Ninja is a powerful and intuitive to-do list application designed to help individuals and teams stay organized, focused, and productive. 
 
 ## Features
 
