@@ -5,7 +5,6 @@ List Ninja is a powerful and intuitive to-do list application designed to help i
 
 ## Features
 
-- Create multiple to-do lists and add tasks effortlessly.
 - Categorize tasks with tags or labels for easy filtering and searching.
 - Assign priority levels to tasks to identify critical items.
 - Set due dates and receive reminders to ensure deadlines are met.
